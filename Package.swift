@@ -25,43 +25,43 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "ffmpegkit",
-      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.8/ffmpegkit.xcframework.zip",
-      checksum: "2156a9089d915e0ee24a2840d42f69d3e7c7c8756c3686b5d696bf198c19d673"
+      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.9/ffmpegkit.xcframework.zip",
+      checksum: "152563ab1cb304106bb0ffa445d9c4b4f6fe80f967b05d0567f2613fc99f35ad"
     ),
     .binaryTarget(
       name: "libavcodec",
-      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.8/libavcodec.xcframework.zip",
-      checksum: "be6a96570fc56696e65f86df0b19d55fb4a202203fa3a8d4ba8255fee21a38ec"
+      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.9/libavcodec.xcframework.zip",
+      checksum: "aa1f40e338d5eef652de23e062e41243f86f44224c93dd2a5d18605bd7219972"
     ),
     .binaryTarget(
       name: "libavdevice",
-      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.8/libavdevice.xcframework.zip",
-      checksum: "3a8ce1468cc27bba80ef2bf89c2ecb86ea8f9bb61e305647d8c25704bd400ee3"
+      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.9/libavdevice.xcframework.zip",
+      checksum: "7b3bf1477ba9d62fa697b69bb2f033dcaa876b0f6facfb2e447e86e5bd7c9fca"
     ),
     .binaryTarget(
       name: "libavfilter",
-      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.8/libavfilter.xcframework.zip",
-      checksum: "a9442ee9abda54c268c5beece57fb045b648f5987753fa76f8e7cbf05b9bb895"
+      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.9/libavfilter.xcframework.zip",
+      checksum: "6e83301c8d2d98f87beec8d35e9554977210d5cccfb1472de05ba8e2d309d017"
     ),
     .binaryTarget(
       name: "libavformat",
-      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.8/libavformat.xcframework.zip",
-      checksum: "b4212dc5774a101343a2ab72a130a5e58f2c9fbc1d01c60f5bb8bdea6faef54a"
+      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.9/libavformat.xcframework.zip",
+      checksum: "0b38e1d6c3a71ec260338ba59151a3d5ca0c0e6441c22be257a8d5e432ccedba"
     ),
     .binaryTarget(
       name: "libavutil",
-      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.8/libavutil.xcframework.zip",
-      checksum: "7a4a8e70d89c4563a9f9d0d89852b802d2d6678ca27b600c9a8c44f5ea120c5e"
+      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.9/libavutil.xcframework.zip",
+      checksum: "b921359f354da77d2e80a60b2f6fd69cfbd76eb10aa5225bba15c7478c3842cf"
     ),
     .binaryTarget(
       name: "libswresample",
-      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.8/libswresample.xcframework.zip",
-      checksum: "5b16c6e06a5d48cfed96941b7ed7d13a30e45d9adec78451f7e710683cac8325"
+      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.9/libswresample.xcframework.zip",
+      checksum: "547ea87f7e26427f46e9907a779f19681e45c68ac20015483bc5c5d83abaf6e9"
     ),
     .binaryTarget(
       name: "libswscale",
-      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.8/libswscale.xcframework.zip",
-      checksum: "a76fa17f606bda8f6899cadf79c2869fcfc41267b55484fc150df22290875bbd"
+      url: "https://github.com/iconnect/ffmpeg-kit/releases/download/1.0.9/libswscale.xcframework.zip",
+      checksum: "4ee0947b81043b4dec39836eeb87f613d47d51a38e3e7e11a9745457f41f16c5"
     )
   ]
 )
